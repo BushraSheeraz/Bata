@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+.head
+{
+	background-color:#DB2222;
+	color: ghostwhite; 
+	height: 25px; 
+	padding-top: 5px
+}
+.head a
+{
+	color:seashell; 
+	text-decoration: none;
+}
+body{
+	margin:0%;
+}
+#img1
+{
+	width:210px; 
+	height:60px;
+}
+#sec1 img
+{
+	width:200px; 
+	height:250px;
+}
+#bt1
+{
+	background-color:rgb(231, 12, 12) ;
+	color: ghostwhite; 
+	width:200px; 
+	height:40px;
+}
+#sec3 img
+{
+	 width:30px; 
+	 height:30px;
+}
+select
+{
+	padding:5px;
+	width:200px;
+}
+#t 
+{
+	list-style-type: none;
+	overflow: hidden;
+}
+#t li 
+{
+	float: left;
+	display: block;
+}
+#t li a 
+{
+	text-decoration: none;
+	display: block;
+	margin: 16px;
+	color: black;
+}
+th
+{
+	padding: 30px;
+}
+.home
+{
+	background-color: gainsboro; 
+	height:40px;
+}
+#sec1
+{
+	float:left; 
+	width: 10%;
+}
+#sec2
+{
+	float:left; 
+	width:10px; 
+	margin-left:40px;
+}
+#sec3
+{
+	width:300px; 
+	float:right;
+}
+.sec-a{
+	width:20%;
+	float:left;
+}
+.sec-b{
+	width:80%;
+	float:left;
+}
+#div1{
+	overflow: hidden;
+}
+.gallery{
+	display:inline-block;
+}
+#img2{
+	width: 250px; 
+	height:320px;
+}
+#mail{
+	width:15px; 
+	height:15px;
+}
+input{
+	width:300px;
+	 height:40px;
+}
+#bt2{
+	background-color:rgb(231, 12, 12);
+	color: ghostwhite;
+	width:80px; 
+	height:40px;
+}
+table{
+	width:100%;
+	text-align: center;
+}
+#img3{
+	width: 60px;
+}
+#img4{
+	width: 60px; 
+	margin-left: 20px;
+}
+#img5{
+	width: 190px;
+}
+#img6{
+	width: 190px;
+}
+h2,p{
+	margin:30px;
+}
+#div2{
+	background-color:#DB2222;
+	color: ghostwhite; 
+	height: 15px; 
+	padding-top: 5px; 
+	text-align: center;
+}
+#img7{
+	width:400px; 
+	height:450px;
+}
+#logo{
+	margin-left: 840px;
+}
+#icon{
+	margin-left: 100px;
+}
