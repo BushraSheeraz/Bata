@@ -44,12 +44,12 @@ select
 }
 #t 
 {
+	margin-left:450px;
 	list-style-type: none;
 	overflow: hidden;
 }
 #t li 
 {
-	margin-left:450px;
 	float: left;
 	display: block;
 }
