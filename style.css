@@ -49,9 +49,11 @@ select
 }	
 #t li 
 {
-	margin-left:450px;
 	float: left;
 	display: block;
+}
+#women{
+	margin-left:450px;
 }
 #t li a 
 {
